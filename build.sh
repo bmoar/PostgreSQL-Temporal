@@ -5,4 +5,4 @@ set -o pipefail
 
 echo "Hello world!"
 
-exit 0
+exit 1
